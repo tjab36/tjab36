@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tjab36
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL and Python.
+- 💞️ I’m looking to collaborate on projects to build up my portfolio.
+- 📫 How to reach me ... 
+- ⚡ Fun fact: I used to live by the sea, now by the mountains.
